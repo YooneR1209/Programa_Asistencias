@@ -4,3 +4,4 @@ public class Docente extends Persona implements Contrato{
         System.out.println("Dando clases");
     }
 }
+utht
