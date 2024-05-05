@@ -10,6 +10,8 @@ public class Main {
         facultad.getCarreraList().add(computacion);
         facultad.getCarreraList().add(new Carrera("124", "Electronica",
                 "Ingeniero en electronica", facultad, Modalidad.PRESENCIAL));
+        facultad.getCarreraList().add(new Carrera("123", "Minas",
+                      "Ingeniero en minas", facultad, Modalidad.PRESENCIAL));
 
        computacion.crearCiclos(9);
        computacion.crearAsignatura(2, "POO");
