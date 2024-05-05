@@ -7,3 +7,8 @@ public interface Contrato {
     gdfsdf
 >>>>>>> Stashed changes
 }
+<<<<<<< HEAD
+gfdgfd
+=======
+dzsfsdf
+>>>>>>> Arranque
